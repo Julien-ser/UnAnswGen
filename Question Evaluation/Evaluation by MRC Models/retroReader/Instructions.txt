@@ -1,0 +1,13 @@
+Step 1: git clone https://huggingface.co/spaces/cooelf/Retro-Reader
+
+Step 2: Download all data files and Model.ipynb files
+
+Step 3: move them to Retro-Reader directory you just downloaded
+
+Step 4: Run the notebook
+
+IF YOU WANT TO ITERATE OVER UNCHANGED TRAIN QUESTIONS:
+
+RUN MODEL-TRAIN-UNCHANGED.ipynb
+make sure data.txt is downloaded as well....(this file is for running over JUST answerable questions)
+
