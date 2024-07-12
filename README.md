@@ -1,7 +1,7 @@
 # UnAnswGen: A Systematic Approach for Generating Unanswerable Questions in Machine Reading Comprehension
 
-## Overview
-### Codebases
-[`Unanswerable Question Generation/`](./Unanswerable%20Question%20Generation/): source code for the generation of unanswerable questions of types: Negation, Number Swap, Entity Swap, Mutual Exclusion, No Information, Antonym
+## Data
+The [`Data/`](./Data/) folder contains all of the unanswerable questions of the types: negation, mutual exclusion, entity swap, number swap, no information and antonym, after going through the evaluation code through 6 different MRC models and Majority Voting between these models. 
 
-[`Question Evaluation/`](./Question%20Evaluation/): source code for the evaluation of generated unanswerable questions using 6 MRC models(*huggingface links here), and evaluation of fine tuning models and effectiveness of generated unanswerable questions
+## Human Evaluation
+The [`Human Evaluation/`](./Human%20Evaluation/) folder contains the google apps scripts code for generating google forms based on unanswerable question input data, and the links to the generated forms that were used to allow human experts to verify the accuracy and effectiveness of the generated unanswerable questions.
