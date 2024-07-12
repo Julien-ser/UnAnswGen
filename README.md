@@ -1,6 +1,6 @@
 # UnAnswGen: A Systematic Approach for Generating Unanswerable Questions in Machine Reading Comprehension
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Julien-ser/UnAnswGen/main/workflow.png", width="500", alt="ReQue: Workflow Diagram">
+    <img src="[https://raw.githubusercontent.com/Julien-ser/UnAnswGen/main/workflow.png](https://raw.githubusercontent.com/Julien-ser/UnAnswGen/main/workflow.png?token=GHSAT0AAAAAACR22ORW3OLURS5HYQXUS56EZURQKCA)", width="500", alt="ReQue: Workflow Diagram">
 </div>
 
 ## Unanswerable Question Generation
