@@ -4,6 +4,7 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Julien-ser/UnAnswGen/refs/heads/main/workflow.png" width="500" alt="ReQue: Workflow Diagram">
 </div>
+![alt text](https://raw.githubusercontent.com/Julien-ser/UnAnswGen/refs/heads/main/workflow.png)
 
 ## Unanswerable Question Generation
 The [`Unanswerable Question Generation/`](./Unanswerable%20Question%20Generation/) folder contains all of the Python notebook files that involve generating unanswerable questions of all types(negation, mutual exclusion, entity swap, number swap, no information, and antonym) based on the SQUAD2.0 train dataset. 
