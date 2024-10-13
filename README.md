@@ -1,13 +1,7 @@
 
 
 # UnAnswGen: A Systematic Approach for Generating Unanswerable Questions in Machine Reading Comprehension
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Julien-ser/UnAnswGen/refs/heads/main/workflow.png" width="500" alt="ReQue: Workflow Diagram">
-</div>
-![alt text](https://raw.githubusercontent.com/Julien-ser/UnAnswGen/refs/heads/main/workflow.png)
-
 ![image](https://github.com/user-attachments/assets/b4150ca6-bbad-4233-b5d0-5c3fedfc2527)
-
 
 ## Unanswerable Question Generation
 The [`Unanswerable Question Generation/`](./Unanswerable%20Question%20Generation/) folder contains all of the Python notebook files that involve generating unanswerable questions of all types(negation, mutual exclusion, entity swap, number swap, no information, and antonym) based on the SQUAD2.0 train dataset. 
