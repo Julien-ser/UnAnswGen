@@ -5,9 +5,7 @@
 ## 📄 Paper
 
 **A preprint of our paper is available in this repository:** [**UnAnswGen: A Systematic Approach for Generating Unanswerable Questions in Machine Reading Comprehension**](https://github.com/Julien-ser/UnAnswGen/blob/main/UnAnswGen-%20A%20Systematic%20Approach%20for%20Generating%20Unanswerable%20Questions%20in%20Machine%20Reading%20Comprehension.pdf)  
-
-> ***📢The official version will appear in the SIGIR-AP proceedings.***
-
+## 📢 The official version will appear in the SIGIR-AP 2024 proceedings.
 
 ![image](https://github.com/user-attachments/assets/b4150ca6-bbad-4233-b5d0-5c3fedfc2527)
 
